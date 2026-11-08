@@ -21,7 +21,7 @@ public class Experiment {
     private static final int RUNS = 5;
     private static final int PATTERN_LENGTH = 100;
 
-    private static final int[] RECURSIVE_SIZES = {3, 6, 9, 12};
+    private static final int[] RECURSIVE_SIZES = {3, 6, 9, 12, 13};
     private static final int[] DP_SIZES = {500, 1000, 2000, 4000};
     private static final int[] SEARCH_SIZES = {100_000, 200_000, 400_000, 800_000, 1_600_000};
 
